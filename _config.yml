@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: 卢建的车间
+name: lujian's workshop
 description: 杂七杂八一大堆
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -11,11 +11,11 @@ url: http://lujian101.github.io
 baseurl: '/myworld'
 
 share:
-  facebook: true
-  twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
+  facebook: false
+  twitter: false
+  gplus: false
+  linkedin: false
+  pinterest: false
   email: true
 
 social:
