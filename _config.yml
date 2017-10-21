@@ -22,9 +22,9 @@ social:
   github: lujian101
   stackoverflow: ''
   linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
+  instagram:
+  lastfm:
+  rss:
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
