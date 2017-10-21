@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: 我的踏踏
-description: 软码人
+name: 卢建的车间
+description: 杂七杂八一大堆
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://lujian101.github.io
@@ -19,7 +19,7 @@ share:
   email: true
 
 social:
-  github: streetturtle
+  github: lujian101
   stackoverflow: ''
   linkedin:
   instagram: ''
